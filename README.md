@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @catarinadiassilva
-- 🌱 I’m currently student
+- 🌱 Student
 - 💞️ I’m looking to collaborate on open source projects
 
 
